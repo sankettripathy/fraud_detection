@@ -7,7 +7,7 @@ Download the data from: [Dataset](https://www.kaggle.com/datasets/mlg-ulb/credit
 ## How to run on local environment:
 - CLone the repo
 ```
-git clone https://github.com/biswajeetbehera123/fraud_detection
+git clone https://github.com/sankettripathy/fraud_detection.git
 ```
 - Use python3
 - Install requirements:
